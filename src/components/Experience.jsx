@@ -36,8 +36,8 @@ const Experience = () => {
     },
     {
       id: 5,
-      src: nextjs,
-      title: "Next JS",
+      src: react,
+      title: "React",
       style: "shadow-white",
     },
     {
