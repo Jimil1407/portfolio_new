@@ -12,11 +12,11 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I'm a Front-End Developer
+          Machine Learning Enthusiast and Full Stack Developer.
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-          I'm am an undergrad student pursuing Computer Science wit AI and Machine Learning.
-                    I love to work on web appplications using React, Tailwind and Next JS.
+          I am an undergrad student pursuing Computer Science with AI and Machine Learning.
+                    I work with data and I have experience in developing Machine Learning Models. I can build web applications using HTML, Javascript, React, and Tailwind.
           </p>
 
           <div>
