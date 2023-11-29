@@ -1,24 +1,24 @@
 import React from "react";
-
-import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import react from "../assets/react.png";
-import github from "../assets/github.png";
-import tailwind from "../assets/tailwind.png";
+import rest from "../assets/rest.png";
+import node from "../assets/node.png";
+import ml from "../assets/tensorflow.png";
+
 
 const Experience = () => {
   const techs = [
     {
       id: 1,
-      src: html,
-      title: "HTML",
+      src: rest,
+      title: "Rest APIs",
       style: "shadow-orange-500",
     },
     {
       id: 2,
       src: css,
-      title: "CSS",
+      title: "HTML & CSS",
       style: "shadow-blue-500",
     },
     {
@@ -30,21 +30,21 @@ const Experience = () => {
     
     {
       id: 4,
-      src: tailwind,
-      title: "Tailwind",
-      style: "shadow-sky-400",
+      src: node,
+      title: "Node.js",
+      style: "shadow-green-400",
     },
     {
       id: 5,
       src: react,
       title: "React",
-      style: "shadow-white",
+      style: "shadow-cyan-500",
     },
     {
       id: 6,
-      src: github,
-      title: "GitHub",
-      style: "shadow-gray-400",
+      src: ml,
+      title: "Machine Learning",
+      style: "shadow-orange-400",
     },
   ];
 

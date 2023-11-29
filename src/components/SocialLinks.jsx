@@ -33,7 +33,7 @@ const SocialLinks = () => {
                 Mail<HiOutlineMail size={30}/>
                 </>
             ),
-            href: 'mailto:jimildigaswala@gmail.com',
+            href: 'mailto:jimil.devs@gmail.com',
         },
         {
             id:4,
@@ -42,7 +42,7 @@ const SocialLinks = () => {
                 Resume<BsFillPersonLinesFill size={30}/>
                 </>
             ),
-            href: '/resume_23.pdf',
+            href: '/jimil_d_resume.pdf',
             style: 'rounded-tr-md',
             download: true,
         },
