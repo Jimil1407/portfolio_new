@@ -20,7 +20,8 @@ const Home = () => {
   });
 
   return (
-    <div id = "home" className="bg-gradient-to-b from-black via-black to-gray-800 min-h-screen flex items-center">
+     <div id = "home">
+    <div className="bg-gradient-to-b from-black via-black to-gray-800 min-h-screen flex items-center">
       <div className="max-w-screen-lg mx-auto flex flex-col md:flex-row p-8 items-center">
         <div className="flex flex-col justify-center w-full md:w-1/2 mt-12 md:mt-0">
           <animated.h2
@@ -58,6 +59,7 @@ const Home = () => {
         </animated.div>
       </div>
     </div>
+  </div>
   );
 };
 
