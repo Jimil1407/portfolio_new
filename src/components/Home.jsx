@@ -35,8 +35,6 @@ const Home = () => {
             style={textSpring}
           >
             I'm a Computer Science undergrad passionate about AI and Machine Learning. With hands-on experience in building Machine Learning Models, I also enjoy creating user-friendly web applications using HTML, JavaScript, React, and Tailwind. Let's connect and explore opportunities!
-          </animated.p>
-
           <Link
             to="portfolio"
             smooth
@@ -48,6 +46,7 @@ const Home = () => {
               <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
             </span>
           </Link>
+          </animated.p>
         </div>
 
         <animated.div style={imageSpring} className="w-full md:w-1/2">
