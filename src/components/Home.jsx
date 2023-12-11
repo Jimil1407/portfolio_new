@@ -2,7 +2,7 @@ import React from "react";
 import { useSpring, animated } from "react-spring";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
-import HeroImage from "../assets/p2.jpeg";
+import HeroImage from "../assets/final.png";
 
 const Home = () => {
   const textSpring = useSpring({
