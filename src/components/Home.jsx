@@ -34,7 +34,7 @@ const Home = () => {
             className="text-gray-500 max-w-md text-center mb-4"
             style={textSpring}
           >
-            I'm a Computer Science undergrad passionate about AI and Machine Learning. With hands-on experience in building Machine Learning Models, I also enjoy creating user-friendly web applications using HTML, JavaScript, React, and Tailwind. Let's connect and explore opportunities!
+            I'm a Computer Science undergrad passionate about AI and Machine Learning. With hands-on experience in building Machine Learning Models, I also enjoy creating user-friendly web applications. Let's connect and explore opportunities!
           <Link
             to="portfolio"
             smooth
