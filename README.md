@@ -1,4 +1,4 @@
-# 🌟 My Portfolio
+# 🌟 My Portfolio Website
 
 Welcome to my personal portfolio! This website showcases my work, skills, and projects, providing a comprehensive overview of my capabilities as a developer. Built using HTML, CSS, JavaScript, and React, this portfolio is designed to be visually appealing and interactive.
 
