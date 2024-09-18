@@ -28,7 +28,7 @@ const Home = () => {
             className="text-4xl sm:text-7xl font-bold text-white text-center mb-4"
             style={textSpring}
           >
-            Machine Learning & Full Stack Developer
+            Machine Learning Enthusiast
           </animated.h2>
           <animated.p
             className="text-gray-500 max-w-md text-center mb-4"
